@@ -71,9 +71,9 @@ This project presents a comprehensive analysis of global airplane incidents betw
 
 ## 🚀 How to Run
 
-1. **Clone the repository**:
+2\. \*\*Clone the repository\*\*:
 
-```bash
+\```bash
 git clone https://github.com/AsharAftab20056/Flight-Incident-Project.git
 
 
