@@ -1,0 +1,497 @@
+Date,Flight Name,Type,Operator,Occupants,Survivors,Fatalities,Weather,Travel Route,Cause
+10-01-00,Crossair Flight 498,Saab 340,Crossair  ,10,0,10,Unknown,Basel to Dresden,Pilot Error
+13-01-00,Avisto Short 360,Short 360,Avisto  ,41,19,22,Cold and icy,Tripoli to Benghazi,Weather
+30-01-00,Kenya Airways Flight 431,Boeing 737-200,Kenya Airways  ,179,10,169,Unknown,Abidjan to Lagos,Collision
+31-01-00,Alaska Airlines Flight 261,McDonnell Douglas MD-83,Alaska Airlines  ,88,0,88,Clear,Puerto Vallarta to Seattle,Horizontal stabilizer Failure
+16-02-00,Emery Worldwide Flight 17,McDonnell Douglas DC-8,Emery Worldwide  ,3,0,3,Clear,Sacramento to Dayton,Mechanical Failure 
+05-03-00,Southwest Airlines Flight 1455,Boeing 737-300,Southwest Airlines  ,142,142,0,Clear,Las Vegas to Burbank ,Runway Overrun
+19-04-00,Air Philippines Flight 541,Fokker F27,Air Philippines  ,131,0,131,Unknown ,Manila to Davao,Electrical Failure
+25-05-00,Philippine Airlines Flight 812,Airbus A320,Philippine Airlines  ,291,290,1,Clear,Davao to Manila,Hijack
+25-05-00,Air Libert� Flight 8807,Sud Aviation Caravelle,Air Libert�  ,159,158,1,Fair,Paris to Madrid,Collision
+31-05-00,Whyalla Airlines Flight 904,Saab 340,Whyalla Airlines  ,8,0,8,Cloudy,Adeleide to Whyalla ,Engine Failure
+22-06-00,Wuhan Airlines Flight 343,Tupolev Tu-154,Wuhan Airlines  ,49,0,49,Stormy,Wuhan to Enshi,Weather
+04-07-00,Mal�v Flight 262,Fokker 28,Mal�v  ,94,94,0,Clear,Budapest to Thessaloniki,Landing gear Failure
+08-07-00,Aerocaribe Flight 7831,McDonnell Douglas DC-9,Aerocaribe  ,19,0,19,Foggy,Villahermosa to Cozumel,Weather
+12-07-00,Hapag-Lloyd Flight 3378,Lockheed L-1011 TriStar,Hapag-Lloyd  ,151,151,0,Clear,Chania to Hanover,Fuel Exhaustion
+17-07-00,Alliance Air Flight 7412,Boeing 737-200,Alliance Air  ,63,3,60,Clear,Calcutta to Patna,Pilot Error
+25-07-00,Air France Flight 4590,Concorde,Air France  ,113,0,113,Clear,Paris to New York,Runway Overrun
+27-07-00,Royal Nepal DHC-6,De Havilland Canada DHC-6 Twin Otter,Royal Nepal Airlines  ,25,0,25,Unknown,Bajhang to Dhangadhi,CFIT
+11-08-00,Southwest Airlines Flight 1763,Boeing 737-300,Southwest Airlines  ,125,125,0,Clear,Las Vegas to Salt lake City,Weather
+23-08-00,Gulf Air Flight 072,Boeing 737-300,Gulf Air  ,143,0,143,Clear,Cairo to Manama,Pilot Error
+04-09-00,Beechcraft 200 Charter,Beechcraft 200,Beechcraft Charter  ,8,0,8,Unknown,Charter mining route,Engine Failure
+19-10-00,Lao Aviation Flight 703,Antonov An-24,Lao Aviation  ,17,9,8,Foggy,Nathong route,Pilot Error
+31-10-00,Singapore Airlines Flight 006,Boeing 747-400,Singapore Airlines  ,179,179,0,Rainy,Taipei to Los Angeles,Runway Overrun
+15-11-00,ASA Pesada An-24RV,Antonov An-24RV,ASA Pesada  ,57,0,57,Unknown,Luanda to Namibe,Engine Failure
+18-11-00,Dirgantara Air Service 3130,CASA C-212 Aviocar,Dirgantara Air Service  ,18,18,0,Clear,Mahakam Ulu Regency to Samarinda,Pilot Error
+04-12-00,Sabena Flight 877,Fokker F27,Sabena  ,170,170,0,Fair, Brussels to Nairobi,Gunfire
+29-12-00,British Airways Flight 2069,Boeing 747-400,British Airways  ,398,398,0,Clear,London to Nairobi,Hijack
+23-01-01,Yemenia Flight 448,Boeing 727,Yemenia  ,101,101,0,Clear,SanaÃƒÂ¢Ã‚â‚¬Ã‚â„¢a to Djibouti,Hijack
+25-01-01,RUTACA Flight 225,Boeing 737-200,RUTACA  ,25,0,25,Unknown,Canaima to Isla Margarita,Engine Failure
+31-01-01,Japan Airlines 907 & 958,McDonnell Douglas DC-8,Japan Airlines  ,427,427,0,Clear,Tokyo to Okinawa,Collision
+07-02-01,Iberia Flight 1456,Boeing 747-400,Iberia  ,143,143,0,Stormy,Barcelona to Bilbao,Windshear
+27-02-01,Loganair Flight 670A,Britten-Norman BN-2 Islander,Loganair  ,2,0,2,Clear,Edinburgh to Belfast,Engine Failure
+03-03-01,Thai Airways Flight 114,McDonnell Douglas MD-82,Thai Airways  ,8,7,1,Clear,Bangkok to Chiang Mai,Explosion
+15-03-01,Vnukovo Flight 2806,Tupolev Tu-154,Vnukovo Airlines  ,171,168,3,Unknown,Istanbul to Medina,Hijack
+24-03-01,Air Cara�bes Flight 1501,McDonnell Douglas DC-10,Air Cara�bes  ,20,0,20,Unknown,St. Martin to Saint BarthÃƒÆ’Ã‚Â©lemy,Pilot Error
+29-03-01,Avjet Aspen ,Gulfstream IV,Avjet  ,18,0,18,Unknown,Burbank to Aspen,Pilot Error
+17-05-01,Faraz Qeshm Yak-40,Yakovlev Yak-40,Faraz Qeshm Airlines  ,30,0,30,Foggy,Tehran to Gorgan,Weather
+04-07-01,Vladivostok Air Flight 352,Tupolev Tu-154,Vladivostok Air  ,145,0,145,Unknown,Ekaterinburg to Irkutsk,Pilot Error
+14-07-01,Rus Flight 9633,Ilyushin Il-76,RusAir  ,10,0,10,Clear,Chkalovsky Air Base,Pilot Error
+24-08-01,Air Transat Flight 236,Airbus A310,Air Transat  ,306,306,0,Clear,Toronto to Lisbon,Fuel Exhaustion
+25-08-01,Blackhawk Cessna 402B,Cessna 402B,Blackhawk Airways  ,9,0,9,Unknown,Abaco Islands,Overloading
+29-08-01,Binter Mediterr�neo Flight 8261,CASA CN-235,Binter Mediterr�neo  ,44,39,5,Unknown,Melilla to MÃƒÆ’Ã‚Â¡laga,Engine Failure
+11-09-01,American Airlines Flight 11,Boeing 767-200,American Airlines  ,92,0,92,Clear,Boston to Los Angeles,Hijack
+11-09-01,United Airlines Flight 175,Boeing 767-200,United Airlines  ,65,0,65,Clear,Boston to Los Angeles,Hijack
+11-09-01,American Airlines Flight 77,Boeing 757-200,American Airlines  ,64,0,64,Clear,Washington to Los Angeles,Hijack
+11-09-01,United Airlines Flight 93,Boeing 757-200,United Airlines  ,44,0,44,Clear,Newark to San Francisco,Hijack
+11-09-01,Korean Air Flight 085,Boeing 747-400,Korean Air  ,Unknown,Unknown,#VALUE!,Clear,Incheon to Anchorage,Hijack
+11-09-01,Delta Air Lines Flight 1989,McDonnell Douglas MD-88,Delta Air Lines  ,78,78,0,Clear,Boston to Los Angeles,Hijack
+15-09-01,TAM Flight 9755,Ilyushin Il-86,TAM  ,88,87,1,Clear,Belo Horizonte arrival,Engine Failure
+21-09-01,Aeroflot Flight 521,Tupolev Tu-154,Aeroflot  ,322,322,0,Clear,Moscow to Dubai,Pilot Error
+04-10-01,Siberia Airlines Flight 1812,Tupolev Tu-154,Siberia Airlines  ,78,0,78,Clear,Tel Aviv to Novosibirsk,Fire
+08-10-01,SAS Flight 686,McDonnell Douglas MD-87,Scandinavian Airlines (SAS)  ,118,0,118,Foggy,Milan to Copenhagen,Collision
+10-10-01,Flightline Flight 101,BAe-146,Flightline  ,10,0,10,Stormy,Spain to Valencia,Lightning
+12-11-01,American Airlines Flight 587,Airbus A300-600,American Airlines  ,265,0,265,Clear,New York to Santo Domingo,Pilot Error
+19-11-01,IRS Aero Flight 9601,Tupolev Tu-154,IRS Aero  ,27,0,27,Unknown,Moscow to Arkhangelsk,Mechanical Failure 
+24-11-01,Crossair Flight 3597,Avro RJ100,Crossair  ,33,9,24,Low visibility,Berlin to Zurich,Pilot Error
+22-12-01,American Airlines Flight 63,Boeing 767-300ER,American Airlines  ,198,198,0,Clear,Paris to Miami,Hijack
+14-01-02,Siberia Airlines Flight 852,Tupolev Tu-154,Siberia Airlines  ,139,139,0,Unknown,Novosibirsk to Novosibirsk (aborted takeoff),Runway Overrun
+16-01-02,Garuda Indonesia Flight 421,Boeing 737-300,Garuda Indonesia  ,60,59,1,Unknown,Ampenan to Solo River,Engine Failure
+28-01-02,TAME Flight 120,Boeing 727,TAME  ,94,0,94,Low visibility,Mariscal Sucre to Alfonso Bonilla AragÃƒÂ³n ,Pilot Error
+12-02-02,Iran Air Tours Flight 956,Tupolev Tu-154,Iran Air Tours  ,119,0,119,Rainy,Tehran to Khorramabad,Pilot Error
+15-04-02,Air China Flight 129,Boeing 767-200ER,Air China  ,166,37,129,Misty,Beijing to Busan,Weather
+04-05-02,EAS Airlines Flight 4226,BAC One-Eleven,EAS Airlines  ,77,4,73,Unknown,Kano to Lagos,Pilot Error
+07-05-02,EgyptAir Flight 843,Boeing 737-500,EgyptAir  ,62,48,14,Poor,Cairo to Tunis,Pilot Error
+07-05-02,China Northern Airlines Flight 6136,McDonnell Douglas MD-82,China Northern Airlines  ,112,0,112,Unknown,Beijing to Dalian,Fire
+25-05-02,China Airlines Flight 611,Boeing 747-200B,China Airlines  ,225,0,225,Clear,Taipei to Hong Kong,Pilot Error
+01-07-02,Bashkirian Airlines Flight 2937 & DHL Flight 611,Tupolev Tu-154 & Boeing 757-200,Bashkirian Airlines / DHL  ,73,0,73,Clear,Bashkirian: Moscow to Barcelona,Collision
+04-07-02,Prestige Airlines Boeing 707,Boeing 707,Prestige Airlines  ,30,2,28,Unknown,Unknown to Bangui,Fuel exhaustion
+10-07-02,Swiss Intl Air Lines Flight 850,Saab 2000,Swiss International Air Lines  ,20,20,0,Stormy,Basel to Hamburg (diverted to Werneuchen),Pilot Error
+16-07-02,Bristow Helicopters Sikorsky S-76A,Sikorsky S-76A,Bristow Helicopters  ,11,0,11,Unknown,Oil rig to oil rig,Structural error
+26-07-02,FedEx Express Flight 1478,Boeing 727,FedEx Express  ,3,3,0,Unknown,Memphis to Tallahassee,"	CFIT"
+28-07-02,Pulkovo Aviation Flight 9560,Tupolev Tu-154,Pulkovo Aviation  ,16,2,14,Unknown,Sheremetyevo to Saint Petersburg (repositioning),Mechanical Failure 
+22-08-02,Shangri-La Air Twin Otter,De Havilland Canada DHC-6 Twin Otter,Shangri-La Air  ,18,0,18,Rainy,Jomsom to Pokhara,CFIT
+30-08-02,Rico Linhas Aéreas Flight 4823,Embraer EMB 120 Brasilia,Rico Linhas A�reas  ,31,8,23,RainStormy,Cruzeiro do Sul to Rio Branco,CFIT
+14-09-02,Total Linhas Aéreas Flight?5561,Embraer EMB 120 Brasilia,Total Linhas A�reas  ,2,0,2,Unknown,SÃƒÂ£o Paulo to Londrina,Mechanical Failure 
+09-10-02,Northwest Airlines Flight 85,Boeing 747-400,Northwest Airlines  ,404,404,0,Unknown,Detroit to Tokyo (diverted to Anchorage),Rudder Failure
+06-11-02,Luxair Flight 9642,Fokker F50,Luxair  ,22,2,20,Foggy,Berlin to Luxembourg,Runway Overrun
+11-11-02,Laoag International Airlines Flight 585,Fokker F28 Fellowship,Laoag International Airlines  ,34,15,19,Unknown,Laoag to Manila,Engine Failure
+28-11-02,Arkia Flight 582,Boeing 757-300,Arkia  ,271,271,0,Unknown,Mombasa to Tel Aviv,Missile
+21-12-02,TransAsia Airways Flight 791,ATR 72-200,TransAsia Airways  ,2,0,2,Unknown,Taipei to Macau,Icing
+23-12-02,Aeromist-Kharkiv Flight 2137,Yak-40,Aeromist-Kharkiv  ,44,0,44,Unknown,Kharkiv to Isfahan,CFIT
+08-01-03,Air Midwest Flight 5481,Beechcraft 1900D,Air Midwest  ,21,0,21,Clear,Charlotte to Greenville,Stall
+08-01-03,Turkish Airlines Flight 634,Avro RJ100,Turkish Airlines  ,75,5,70,Foggy,Istanbul to DiyarbakÃƒâ€žÃ‚Â±r,CFIT
+09-01-03, TANS Per� Flight 222,Boeing 737-300,TANS Per�  ,46,0,46,Unknown,Lima to Chachapoyas,Pilot Error
+06-03-03,Air Alg�rie Flight 6289,Boeing 737-200,Air Alg�rie  ,103,1,102,Unknown,Tamanrasset to Algiers,Engine Failure
+15-03-03,Air China Flight 112,Ilyushin Il-76,Air China  ,120,115,5,Unknown,Hong Kong to Beijing,Disease Transmission
+08-05-03,2003 Congo Air Disaster (Il-76),Boeing 727,Congo Air (Il-76 crash)  ,Unknown,Unknown,#VALUE!,Unknown,Kinshasa to Lubumbashi,Explosive Decompression
+25-05-03,Stolen Boeing 727 (Quatro de Fevereiro Airport),Yakovlev Yak-42,Unknown (Stolen Boeing 727)  ,Unknown,Unknown,#VALUE!,Unknown,Luanda to unknown,Hijack
+26-05-03,UM Airlines Flight 4230,Boeing 717,UM Airlines  ,75,0,75,Unknown,Bishkek to Zaragoza,CFIT
+29-05-03,Qantas Flight 1737,ATR 42-300,Qantas  ,56,56,0,Clear,Melbourne to Launceston,Hijack
+22-06-03,Air France Flight 5672,Boeing 737-200,Air France  ,24,23,1,Unknown,Nantes to Brest,Pilot Error
+08-07-03,Sudan Airways Flight 139,Let L-410 Turbolet,Sudan Airways  ,117,1,116,Unknown,Port Sudan to Khartoum,Engine Failure
+24-08-03,Tropical Airways Flight 1301,Cessna 402C,Tropical Airways  ,21,0,21,Unknown,Cap-HaÃƒÆ’Ã‚Â¯tien to Port-de-Paix,Stall
+26-08-03,Colgan Air Flight 9446,Airbus A300,Colgan Air  ,2,0,2,Clear,Hyannis to Albany (positioning flight),Trim Failure
+22-11-03,DHL Airbus A300 (Baghdad missile strike),McDonnell Douglas DC-10,DHL  ,3,3,0,Unknown,Baghdad to Bahrain,Missile
+18-12-03,FedEx Express Flight 647,Boeing 737-300,FedEx Express  ,7,7,0,Unknown,Oakland to Memphis,Runway Overrun
+25-12-03,UTA Flight 141,Boeing 737-300,Union des Transports Africains (UTA)  ,160,19,141,Unknown,Cotonou to Beirut,Overloading
+03-01-04,Flash Airlines Flight 604,Yak-40,Flash Airlines  ,148,0,148,Clear,Sharm el-Sheikh to Paris via Cairo,Pilot Error
+13-01-04,Uzbekistan Airways Flight 1154,Yakovlev Yak-40,Uzbekistan Airways  ,37,0,37,Poor,Termez to Tashkent,Weather
+17-01-04,Georgian Express Flight 126,BAe Jetstream 31,Georgian Express  ,10,0,10,Snowy,Pelee to Windsor,Icing
+10-02-04,Kish Air Flight 7170,Fokker 50,Kish Air  ,46,3,43,Unknown,Sharjah arrival (Iran to UAE),Pilot Error
+14-05-04,Rico Linhas A�reas Flight 4815,Embraer EMB 120 Brasilia,Rico Linhas A�reas  ,33,0,33,Unknown,Unknown to Manaus,Pilot Error
+08-06-04,Gabon Express Flight 221,Hawker Siddeley HS 748,Gabon Express  ,30,11,19,Clear,Liberaville to Franceville,Engine Failure
+13-08-04,Air Tahoma Flight 185,Convair 580,Air Tahoma  ,2,1,1,Clear,Cincinnati to Washington D.C.,Fuel Exhaustion
+24-08-04,Siberia Airlines Flight 1047,Tupolev Tu-154B-2,Siberia Airlines  ,46,0,46,Clear,Moscow to Sochi,Hijack
+24-08-04,Volga-AviaExpress Flight 1303,Tupolev Tu-134A-3,Volga-AviaExpress  ,43,0,43,Clear,Moscow to Volgograd,Hijack
+14-10-04,MK Airlines Flight 1602,Boeing 747-200F,MK Airlines  ,7,0,7,Clear,Halifax to Zaragoza,Pilot Error
+14-10-04,Pinnacle Airlines Flight 3701,Bombardier CRJ200,Pinnacle Airlines  ,2,0,2,Clear,Ferry flight (no passengers),Stall
+19-10-04,Corporate Airlines Flight 5966,BAe Jetstream 32,Corporate Airlines  ,15,2,13,Foggy,St. Louis to Kirksville,Pilot Error
+21-11-04,China Eastern Airlines Flight 5210,Bombardier CRJ200,China Eastern Airlines  ,55,0,55,Frosty,Baotou to Shanghai,Icing
+30-11-04,Lion Air Flight 538,McDonnell Douglas MD-82,Lion Air  ,163,138,25,Unknown,Jakarta to Solo City,Pilot Error
+03-02-05,Kam Air Flight 904,Boeing 737-200,Kam Air  ,104,0,104,Snow stormy,Kabul to Herat,CFIT
+20-02-05,British Airways Flight 268,Boeing 747-400,British Airways  ,369,369,0,Clear,Los Angeles to Manchester,Engine Failure
+06-03-05,Air Transat Flight 961,Airbus A310-300,Air Transat  ,0,0,0,Clear,Varadero to Varadero,Structural Failure
+16-03-05,Regional Airlines Flight 9288,Antonov An-24RV,Regional Airlines  ,52,24,28,Unknown,Varandey to Varandey,Instrument Failure
+25-03-05,West Caribbean Airways Flight 9955,McDonnell Douglas MD-82,West Caribbean Airways  ,14,9,5,Clear,El Embrujo to Providencia,Engine Failure
+03-05-05,Airwork Flight 23,Fairchild Metroliner SA227,Airwork  ,2,0,2,Clear,North Island (NZ),Pilot Error
+07-05-05,Aero?Tropics Air Services Flight?675,Cessna 404 Titan,Aero-Tropics Air Services  ,15,0,15,Clear,Cairns to Lockhart River,CFIT
+09-06-05,US Airways 1170 / Aer Lingus 132,Airbus A330 / Airbus A330,US Airways / Aer Lingus  ,381,381,0,Clear,Boston Logan,Runway Overrun
+16-07-05,Equatorial Express Airlines Antonov An?24,Antonov An-24,Equatorial Express Airlines  ,60,0,60,mountainous,Baney to Baney,Overloading
+02-08-05,Air France Flight 358,Airbus A340-313X,Air France  ,309,309,0,Stormy,Paris to Toronto,Runway Overrun
+06-08-05,Tuninter Flight 1153,ATR 72-500,Tuninter  ,39,23,16,Clear,Bari to Djerba,Fuel Exhaustion
+10-08-05,Copterline Flight 103,Sikorsky S-76C+,Copterline  ,14,0,14,Unknown,Tallinn to Helsinki,Servo Failure
+14-08-05,Helios Airways Flight 522,Boeing 737-300,Helios Airways  ,121,0,121,Clear,Larnaca to Prague,Hypoxia
+16-08-05,West Caribbean Airways Flight 708,McDonnell Douglas MD-82,West Caribbean Airways  ,160,0,160,Stormy,Panama City to Martinique,Stall
+23-08-05,TANS Per� Flight 204,Boeing 737-200,TANS Per�  ,98,40,58,Stormy,Lima to Pucallpa,Weather
+05-09-05,Mandala Airlines Flight 091,Boeing 737-200,Mandala Airlines  ,149,103,46,Clear,Medan to Jakarta,Stall
+21-09-05,JetBlue Flight 292,Airbus A320,JetBlue  ,145,145,0,Clear,Burbank to New York,Gear Failure
+22-10-05,Bellview Airlines Flight 210,Boeing 737-200,Bellview Airlines  ,117,0,117,Unknown,Lagos to Abuja,Unknown
+08-12-05,Southwest Airlines Flight 1248,Boeing 737-700,Southwest Airlines  ,0,0,0,Snowy,Baltimore to Chicago,Runway Overrun
+10-12-05,Sosoliso Airlines Flight 1145,McDonnell Douglas DC-9-32,Sosoliso Airlines  ,110,2,108,Stormy,Abuja to Port Harcourt,Pilot Error
+19-12-05,Chalk's Ocean Airways Flight 101,Grumman G-73T Mallard,Chalk's Ocean Airways  ,20,0,20,Clear,Miami to Bimini,Fatigue
+23-12-05,Azerbaijan Airlines Flight 217,Antonov An-140,Azerbaijan Airlines  ,23,0,23,Clear,Baku to Aktau,Unknown
+31-03-06,TEAM Linhas A�reas Flight 6865,Let L-410UVP-E20,TEAM Linhas A�reas  ,19,0,19,Poor,Macaé to Macaé,CFIT
+03-05-06,Armavia Flight 967,Airbus A320-211,Armavia  ,113,0,113,Stormy,Yerevan to Sochi,CFIT
+21-06-06,Yeti Airlines Twin Otter ,De Havilland Canada DHC-6 Twin Otter,Yeti Airlines  ,9,0,9,Cloudy,Jumla to Kathmandu,CFIT
+09-07-06,S7 Airlines Flight 778,Airbus A310-300,S7 Airlines  ,203,78,125,Rainy ,Moscow to Irkutsk,Runway Overrun
+10-07-06,PIA Flight 688,Fokker F27,PIA  ,45,0,45,Clear,Multan to Lahore,Engine Failure
+23-07-06,United Flight 1015 / Atlas Air Flight 6972,McDonnell Douglas DC-10,United Airlines / Atlas Air  ,131,131,0,Clear,Chicago O'Hare to Denver,Runway Overrun
+28-07-06,FedEx Flight 630,Boeing 727-200F,FedEx  ,3,0,3,Clear,San Diego to Memphis,Gear Failure
+13-08-06,Air Alg�rie Flight 2208,Boeing 737-800,Air Alg�rie  ,3,0,3,Clear,Algiers to Frankfurt,Pilot Error
+22-08-06,Pulkovo Aviation Flight 612,Tupolev Tu-154M,Pulkovo Aviation  ,170,0,170,thunderStorm,Anapa to Saint Petersburg,Stall
+27-08-06,Comair Flight 5191,Bombardier CRJ100,Comair  ,50,1,49,dark,Kentucky to Atlanta,Runway Overrun
+01-09-06,Iran Airtour Flight 945,McDonnell Douglas MD-82,Iran Airtour  ,148,120,28,Stormy,Bandar Abbas to Mashhad,Tire Failure
+15-09-06,EasyJet Flight 6074,Airbus A319,EasyJet  ,144,144,0,Unknown,Alicante to Bristol,Electrical Failure
+23-09-06, Shree Air Mil Mi?8 ,Mil Mi-8,Shree Air  ,24,0,24,Unknown,Phungling to Kathmandu,Pilot Error
+29-09-06,Gol Flight 1907,Boeing 737-800,Gol  ,154,0,154,Clear,Manaus to BrasÃƒÆ’Ã‚Â­lia,Collision
+03-10-06,Turkish Airlines Flight 1476,Boeing 737-400,Turkish Airlines  ,113,113,0,Clear,Tirana to Istanbul,Hijack
+10-10-06,Atlantic Airways Flight 670,Avro RJ85,Atlantic Airways  ,16,12,4,Clear,Stavanger to Molde,Runway Overrun
+28-10-06,Continental Flight 1883,Boeing 737-500,Continental Airlines  ,154,154,0,Clear,Orlando to Newark,Taxiway Landing
+29-10-06,ADC Airlines Flight 053,Boeing 737-200,ADC Airlines  ,105,9,96,Stormy,Lagos to Sokoto,Pilot Error
+01-01-07,Adam Air Flight 574,Boeing 737-400,Adam Air  ,102,0,102,Stormy,Surabaya to Manado,Spatial Disorientation
+09-01-07,AerianTur-M An-26,Antonov An-26,AerianTur-M  ,35,1,34,Poor ,Adana to Balad,Unknown
+24-01-07,Air West Flight 612,Boeing 737-200,Air West  ,103,103,0,Clear,Khartoum to Al-Fashir,Hijack
+25-01-07, R�gional (Air France) Flight 7775,Embraer ERJ 145,Air France,54,54,0,Cloudy,Pau to Paris,Icing
+21-02-07,Adam Air Flight 172,Boeing 737-300,Adam Air  ,149,149,0,Clear,Jakarta to Surabaya,Hard landing
+07-03-07,Garuda Indonesia Flight 200,Boeing 737-400,Garuda Indonesia  ,140,119,21,Stormy,Jakarta to Yogyakarta,Runway Overrun
+17-03-07,UTair Flight 471,Tupolev Tu-134,UTair  ,63,57,6,Cloudy,Surgut to Samara,CFIT
+23-03-07,TransAVIAexport Il-76 ,Ilyushin Il-76TD,TransAVIAexport  ,11,0,11,Clear,Minsk to Mogadishu,Missile
+05-05-07,Kenya Airways Flight 507,Boeing 737-800,Kenya Airways  ,114,0,114,Stormy,Douala to Nairobi,Spatial Disorientation
+06-05-07,SkyWest 5741 / Republic 4912,Embraer E170 / Bombardier CRJ700,SkyWest / Republic  ,27,27,0,Clear,San Francisco,Runway Overrun
+03-06-07,Paramount Mil Mi-8 ,Mil Mi-8,Paramount Airways  ,22,0,22,Stormy,Freetown to Lungi,Mechanical Failure 
+21-06-07,Free Airlines L-410 ,Let L-410UVP-E20,Free Airlines  ,21,20,1,Unknown,Kamina to Kinshasa,Overloading
+25-06-07,PMTair Flight 241,Antonov An-24RV,PMTair  ,22,0,22,Stormy,Siem Reap to Sihanoukville,Weather
+17-07-07,TAM Flight 3054,Airbus A320-233,TAM  ,199,0,199,Rainy,Porto Alegre to SÃƒÆ’Ã‚Â£o Paulo,Runway Overrun
+09-08-07,Air Moorea Flight 1121,De Havilland Canada DHC-6 Twin Otter,Air Moorea  ,20,0,20,Unknown,Moorea to Tahiti,Structural Failure
+20-08-07,China Airlines Flight 120,Boeing 737-800,China Airlines  ,165,165,0,Clear,Okinawa to Taipei,Fire
+09-09-07,Scandinavian Airlines Flight 1209,Bombardier Dash 8 Q400,Scandinavian Airlines  ,73,73,0,Clear,Copenhagen to Aalborg,Gear Failure
+12-09-07,Scandinavian Airlines Flight 2748,Bombardier Dash 8 Q400,Scandinavian Airlines  ,52,52,0,Clear,Copenhagen to Vilnius,Gear Failure
+16-09-07,One-Two-GO Airlines Flight 269,McDonnell Douglas MD-82,One-Two-GO Airlines  ,130,40,90,Stormy,Bangkok to Phuket,Weather
+04-10-07,Africa One An-26 ,Antonov An-26B,Africa One  ,50,0,50,Unknown,Kinshasa to Kisangani,Engine Failure
+26-10-07,Philippine Airlines Flight 475,Airbus A320-214,Philippine Airlines  ,154,154,0,Rainy,Manila to Butuan,Runway Overrun
+07-11-07,Nationwide Airlines Flight 723,Boeing 737-200,Nationwide Airlines  ,112,112,0,Clear,Cape Town to Johannesburg,Engine Failure
+30-11-07,Atlasjet Flight 4203,McDonnell Douglas MD-83,Atlasjet  ,57,0,57,mountainous,Istanbul to Isparta,Spatial Disorientation
+04-01-08,Transaven Let L-410,Let L-410UVP-E20,Transaven  ,14,0,14,Stormy,Caracas to Los Roques,Mechanical Failure 
+17-01-08,British Airways Flight 38,Boeing 777-236ER,British Airways  ,152,152,0,Unknown,Beijing to London,Icing
+01-02-08,Lloyd A�reo Boliviano Flight 301,Boeing 727-200,Lloyd A�reo Boliviano  ,156,156,0,Unknown,El Alto to Cobija,Unknown
+08-02-08,Eagle Airways Flight 2279,BAe Jetstream 32,Eagle Airways  ,9,9,0,Unknown,Blenheim to Christchurch,Hijack
+14-02-08,Belavia Flight 1834,Bombardier CRJ100,Belavia  ,21,21,0,Clear,Yerevan to Minsk,Icing
+21-02-08,Santa B�rbara Airlines Flight 518,ATR 42-300,Santa B�rbara Airlines  ,46,0,46,Unknown,MÃ©rida to Caracas,CFIT
+03-04-08,Blue Wing Airlines An-28,Antonov An-28,Blue Wing Airlines  ,19,0,19,Stormy,Benzdorp to Paramaribo,CFIT
+11-04-08,Kata Air Transport Flight 007,Antonov An-26B,Kata Air Transport  ,8,0,8,Unknown,Chi?in?u to Turkey,Unknown
+15-04-08,Hewa Bora Airways Flight 122,Boeing 707-300F,Hewa Bora Airways  ,86,83,3,Clear,Goma to Kisangani,Unknown
+25-05-08,Kalitta Air Flight 207,Boeing 747-209B,Kalitta Air  ,5,5,0,Clear,Brussels to Bahrain,Birdstrike
+26-05-08,Moskovia Airlines Flight 9675,Tupolev Tu-154B-2,Moskovia Airlines  ,9,0,9,Cloudy,Chelyabinsk to Perm,Fire
+30-05-08,TACA Flight 390,Airbus A320-233,TACA  ,138,133,5,Rainy,San Salvador to Tegucigalpa,Pilot Error
+10-06-08,Sudan Airways Flight 109,Airbus A310-324,Sudan Airways  ,214,184,30,Stormy,Amman to Khartoum,Runway Overrun
+06-07-08,USA Jet Airlines Flight 199,McDonnell Douglas DC-9-15F,USA Jet Airlines  ,2,1,1,Unknown,Louisiana to Saltillo,Approach
+07-07-08,Centurion Air Cargo Flight 164,McDonnell Douglas DC-10-30F,Centurion Air Cargo  ,10,8,2,Low visibility,BogotÃƒÆ’Ã‚Â¡ to Miami,Engine Failure
+25-07-08,Qantas Flight 30,Airbus A330-300,Qantas  ,369,369,0,Clear,Hong Kong to Melbourne,Explosion
+31-07-08,East Coast Jets Flight 81,Hawker 125-800A,East Coast Jets  ,8,0,8,Clear,Atlantic City to Owatonna,Go-around loss
+20-08-08,Spanair Flight 5022,McDonnell Douglas MD-82,Spanair  ,172,18,154,Clear,Madrid to Las Palmas,Engine Fire
+24-08-08,A�reo Ruta Maya,Cessna 208B Grand Caravan,A�reo Ruta Maya  ,14,3,11,Stormy,La Aurora to El Estor,Unknown
+24-08-08,Iran Aseman Airlines Flight 6895,Boeing 737-200,Iran Aseman Airlines  ,90,25,65,Unknown,Bishkek to Tehran,CFIT
+27-08-08,Sriwijaya Air Flight 062,Boeing 737-200,Sriwijaya Air  ,130,129,1,Rainy,Jakarta to Jambi,Hydraulic Failure
+30-08-08,Conviasa Boeing 737 ,Boeing 737-200,Conviasa  ,3,0,3,Unknown,Panama to Cotopaxi,CFIT
+14-09-08,Aeroflot Flight 821,Boeing 737-500,Aeroflot  ,88,0,88,Cloudy,Moscow to Perm,CFIT
+07-10-08,Qantas Flight 72,Airbus A330-303,Qantas  ,315,315,0,Clear,Singapore to Perth,Icing
+08-10-08,Yeti Airlines Flight 103,DHC-6 Twin Otter,Yeti Airlines  ,19,1,18,Foggy,Kathmandu to Lukla,CFIT
+10-11-08,Ryanair Flight 4102,Boeing 737-800,Ryanair  ,172,162,10,Clear,Rhine-Ruhr to Rome,Birdstrike
+27-11-08,XL Airways Germany Flight 888T,Airbus A320-232,XL Airways Germany  ,7,0,7,Clear,Perpignan circuit,Unknown
+20-12-08,Continental Airlines Flight 1404,Boeing 737-500,Continental Airlines  ,115,115,0,Snowy,Denver to Houston,Runway Overrun
+15-01-09,US Airways Flight 1549,Airbus A320-214,US Airways  ,155,155,0,Clear,New York City to Charlotte,Birdstrike
+27-01-09,Empire Airlines Flight 8284,ATR 42-320,Empire Airlines  ,2,2,0,Clear,FedEx Cargo (Texas),Unknown
+07-02-09,Manaus Aerot�xi Embraer EMB 110,Embraer EMB 110 Bandeirante,Manaus Aerot�xi  ,28,4,24,Rainy,Santo AntÃƒÆ’Ã‚Â³nio (Amazon),Overloading
+12-02-09,Colgan Air Flight 3407,Bombardier Dash 8 Q400,Colgan Air  ,50,0,50,Snowy,Newark to Buffalo,Unknown
+25-02-09,Turkish Airlines Flight 1951,Boeing 737-800,Turkish Airlines  ,135,126,9,Foggy,Istanbul to Amsterdam,Stall
+12-03-09,Cougar Helicopters Flight 91,Sikorsky S-92A,Cougar Helicopters  ,18,1,17,Cloudy,Newfoundland coast,Mechanical Failure
+20-03-09,Emirates Flight 407,Airbus A340-500,Emirates  ,257,257,0,Clear,Melbourne to Dubai,Thrust Insufficient
+23-03-09,FedEx Express Flight 80,McDonnell Douglas MD-11F,FedEx Express  ,2,0,2,Windy,Guangzhou to Narita,Windshear
+01-04-09,Bond Offshore Flight 85N,Eurocopter AS332L2 Super Puma,Bond Offshore Aviation  ,16,0,16,Cloudy,Miller Oilfield to Aberdeen,Mechanical Failure
+09-04-09,Aviastar BAe 146-300,BAe 146-300,Aviastar  ,6,0,6,Cloudy,Jayapura to Wamena,Ditching
+17-04-09,Mimika Air Flight 514,Pilatus PC-6 Porter,Mimika Air  ,11,0,11,Cloudy,Nabire to Ilaga,Thrust Insufficient
+19-04-09,CanJet Flight 918,Boeing 737-800,CanJet  ,180,180,0,Clear,Montego Bay to Halifax,Hijack
+01-06-09,Air France Flight 447,Airbus A330-203,Air France  ,228,0,228,Stormy,Rio de Janeiro to Paris,Stall
+30-06-09,Yemenia Flight 626,Airbus A310-324,Yemenia  ,153,1,152,Stormy,Sanaa to Moroni,Pilot Error
+13-07-09,Southwest Airlines Flight 2294,Boeing 737-300,Southwest Airlines  ,133,133,0,Clear,Nashville to Baltimore,System Failure
+15-07-09,Caspian Airlines Flight 7908,Tupolev Tu-154M,Caspian Airlines  ,168,0,168,Clear,Tehran to Yerevan,Engine Failure
+24-07-09,Aria Air Flight 1525,Ilyushin Il-62M,Aria Air  ,173,157,16,Clear,Tehran to Mashhad,Pilot Error
+02-08-09,Merpati Flight 9760,De Havilland Canada DHC-6 Twin Otter,Merpati Nusantara Airlines  ,15,0,15,Clear,Jayapura to Oksibil,CFIT
+04-08-09,Bangkok Airways Flight 266,ATR 72-500,Bangkok Airways  ,72,71,1,Rainy,Krabi to Ko Samui,Pilot Error
+11-08-09,Airlines PNG Flight 4684,De Havilland Canada DHC-6 Twin Otter,Airlines PNG  ,13,0,13,Foggy,Port Moresby to Kokoda,CFIT
+09-09-09,Aerom�xico Flight 576,Boeing 737-800,Aerom�xico  ,107,107,0,Clear,CancÃºn to Mexico City,Hijack
+24-09-09,Airlink Flight 8911,BAe Jetstream 41,Airlink  ,3,2,1,Clear,Durban to Pietermaritzburg,Engine Failure
+21-10-09,Northwest Airlines Flight 188,Airbus A320-212,Northwest Airlines  ,149,149,0,Clear,San Diego to Minneapolis,Pilot Error
+21-10-09,Azza Transport Flight 2241,Boeing 707-330C,Azza Transport  ,6,0,6,Clear,Sharjah to Khartoum,Overload
+22-10-09,Divi Divi Air Flight 014,BN-2A Islander,Divi Divi Air  ,10,9,1,Clear,CuraÃ§ao to Bonaire,Engine Failure
+12-11-09,RwandAir Flight 205,Bombardier CRJ200,RwandAir  ,10,9,1,Clear,Kigali to Entebbe,Pilot Error
+18-11-09,Pel-Air Westwind II ditching,IAI Westwind 1124A,Pel-Air  ,6,6,0,Cloudy,Apia to Norfolk Island to Melbourne,Pilot Error
+28-11-09,Avient Flight 324,McDonnell Douglas MD-11F,Avient Aviation  ,7,4,3,Clear,Shanghai to Kyrgyzstan,Pilot Error
+22-12-09,American Airlines Flight 331,Boeing 737-800,American Airlines  ,154,154,0,Rainy,Washington DC to Kingston,Pilot Error
+25-12-09,Northwest Airlines Flight 253,Airbus A330-323E,Northwest Airlines  ,289,289,0,Unknown,Amsterdam to Detroit,Terrorism
+10-01-10,Taban Air Flight 6437,Tupolev Tu-154M,Taban Air  ,170,170,0,Foggy,Abadan to Mashhad,Landing Gear Failure
+10-01-10,Ethiopian Airlines Flight 409,Boeing 737-800,Ethiopian Airlines  ,90,0,90,Clear,Beirut to Addis Ababa,Pilot Error
+22-03-10,Aviastar-TU Flight 1906,Boeing 727-200F,Aviastar-TU  ,8,8,0,Foggy,Hurghada to Moscow,Navigation Error
+13-04-10,AeroUnion Flight 302,Xian MA60,AeroUnion  ,6,0,6,Stormy,Mexico City to Monterrey,CFIT
+13-04-10,Merpati Nusantara Flight 836,Airbus A330-342,Merpati Nusantara Airlines  ,103,103,0,Rainy,Sorong to Manokwari,Runway Excursion
+13-04-10,Cathay Pacific Flight 780,Airbus A330-202,Cathay Pacific  ,309,309,0,Cloudy,Surabaya to Hong Kong,System Failure
+12-05-10,Afriqiyah Airways Flight 771,Antonov An-24,Afriqiyah Airways  ,104,1,103,Foggy,Johannesburg to Tripoli,Pilot Error
+17-05-10,Pamir Airways Flight 112,Boeing 737-800,Pamir Airways  ,44,0,44,Cloudy,Kunduz to Kabul,CFIT
+22-05-10,Air India Express Flight 812,CASA C-212 Aviocar,Air India Express  ,166,8,158,Clear,Dubai to Mangalore,Pilot Error
+19-06-10,CASA C-212 (Cameroon),Douglas C-47 Skytrain,Unspecified Operator (CASA C-212 Cameroon)  ,11,0,11,Stormy,YaoundÃ© to Yangadou,CFIT
+19-06-10,Douglas C-47 Berlin,McDonnell Douglas MD-11F,Unspecified Operator (Douglas C-47 Berlin)  ,28,21,7,Clear,Berlin to Berlin (Sightseeing),Mechanical Failure 
+27-07-10,Lufthansa Cargo Flight 8460,Airbus A321-231,Lufthansa Cargo  ,2,2,0,Dusty,Frankfurt to Hong Kong (via Saudi Arabia),Landing Gear Failure
+28-07-10,Airblue Flight 202,Antonov An-24RV,Airblue  ,152,0,152,Foggy,Karachi to Islamabad,CFIT
+03-08-10,Katekavia Flight 9357,Boeing 737-700,Katekavia  ,15,3,12,Foggy,Krasnoyarsk to Igarka,Pilot Error
+16-08-10,AIRES Flight 8250,Dornier 228-200,AIRES  ,131,129,2,Stormy,BogotÃ¡ to San AndrÃ©s,Runway Overrun
+24-08-10,Agni Air Flight 101,Embraer E190,Agni Air  ,14,0,14,Rainy,Kathmandu to Tenzing-Hillary,Weather
+24-08-10,Henan Airlines Flight 8387,Let L-410UVP-E20,Henan Airlines  ,96,52,44,Foggy,Harbin to Yichun,Runway Overrun
+25-08-10,Filair Let L-410,Boeing 747-44AF/SCD,Filair  ,21,1,20,Cloudy,Kinshasa to Bandundu,Pilot Error
+03-09-10,UPS Airlines Flight 6,Boeing 747-44AF,UPS Airlines  ,2,0,2,Clear,Dubai to Cologne,Fire
+07-09-10,Alrosa Flight 514,Tupolev Tu-154M,Alrosa  ,81,81,0,Clear,Polyarny to Izhma,System Failure
+13-09-10,Conviasa Flight 2350,Embraer 190,Conviasa  ,51,34,17,Cloudy,Porlamar to Guayana,CFIT
+12-10-10,Transafrik Flight 662,Lockheed L-100 Hercules,Transafrik  ,8,0,8,Foggy,Kandahar to Kabul,CFIT
+04-11-10,Aero Caribbean Flight 883,ATR 72-212,Aero Caribbean  ,68,0,68,Stormy,Port-au-Prince to Santiago de Cuba,CFIT
+04-11-10,Qantas Flight 32,Airbus A380-842,Qantas  ,469,469,0,Clear,Singapore to Sydney,Engine Failure
+05-11-10,JS Air Flight 201,Beechcraft 1900C,JS Air  ,21,0,21,Clear,Karachi to Bhit Shah,Engine Failure
+11-11-10,Tarco Airlines Antonov,Antonov An-24,Tarco Airlines  ,44,38,6,Cloudy,Nyala to Zalingei,Runway Overrun
+28-11-10,Sun Way Flight 4412,Ilyushin Il-76TD,Sun Way  ,12,0,12,Clear,Karachi to Khartoum,Fire
+04-12-10,Dagestan Airlines Flight 372,Tupolev Tu-154M,Dagestan Airlines  ,160,158,2,Foggy,Makhachkala to Moscow,Engine Failure
+15-12-10,Tara Air DHC-6,De Havilland Canada DHC-6 Twin Otter,Tara Air  ,22,0,22,Foggy,Lukla to Okhaldhunga,Weather
+01-01-11,Kolavia Flight 348,Tupolev Tu-154B-2,Kolavia  ,124,121,3,Clear,Surgut to Moscow,Engine Failure
+09-01-11,Iran Air Flight 277,Boeing 727-200Adv,Iran Air  ,105,28,77,Snowy,Tehran to Urmia,Pilot Error
+10-02-11,Manx2 Flight 7100,Fairchild Metro III,Manx2  ,12,6,6,Foggy,Belfast to Cork,Pilot Error
+14-02-11,Central American Airways Flight 731,Let L-410UVP-E,Central American Airways  ,14,0,14,Stormy,San Pedro Sula to Tegucigalpa,CFIT
+21-03-11,Trans Air Congo Antonov An-12,Antonov An-12,Trans Air Congo  ,23,0,23,Cloudy,Brazzaville to Pointe-Noire,CFIT
+01-04-11,Southwest Airlines Flight 812,Boeing 737-300,Southwest Airlines  ,116,116,0,Clear,Phoenix to Sacramento,Structural Failure
+04-04-11,Georgian Airways Flight 834,Bombardier CRJ100,Georgian Airways  ,33,1,32,Stormy,Kisangani to Kinshasa,CFIT
+19-04-11,Pawan Hans Mil Mi-17,Mil Mi-17,Pawan Hans  ,23,6,17,Foggy,Tawang to Guwahati,Mechanical Failure 
+07-05-11,Merpati Flight 8968,Xian MA60,Merpati Nusantara Airlines  ,25,0,25,Rainy,Sorong to Kaimana,CFIT
+18-05-11,Sol L�neas A�reas Flight 5428,Saab 340A,Sol L�neas A�reas  ,22,0,22,Snowy,NeuquÃ©n to Comodoro Rivadavia,Engine Failure
+12-06-11,Lightship Europe Airship,Thermo Skyship 600 (Airship),Lightship Europe  ,4,3,1,Clear,Oberursel to Reichelsheim,Structural Failure
+20-06-11,RusAir Flight 9605,Tupolev Tu-134A-3,RusAir  ,52,5,47,Foggy,Moscow to Petrozavodsk,Pilot Error
+04-07-11,Missinippi Airways Caravan,Cessna 208B Grand Caravan,Missinippi Airways  ,9,8,1,Clear,Pukatawagan to The Pas,CFIT
+06-07-11,Silk Way Airlines Il-76,Ilyushin Il-76TD,Silk Way Airlines  ,9,0,9,Mountainous,Baku to Bagram,Terrorism
+08-07-11,Hewa Bora Airways Flight 952,Boeing 727-200,Hewa Bora Airways  ,118,44,74,Stormy,Kinshasa to Kisangani,CFIT
+11-07-11,Angara Airlines Flight 9007,Antonov An-24RV,Angara Airlines  ,37,30,7,Cloudy,Tomsk to Surgut,Engine Failure
+13-07-11,Noar Linhas A�reas Flight 4896,Let L-410UVP-E20,Noar Linhas A�reas  ,16,0,16,Rainy,Recife to Natal,Engine Failure
+28-07-11,Asiana Airlines Flight 991,Boeing 747-400F,Asiana Airlines  ,2,0,2,Stormy,Seoul to Shanghai,Fire
+29-07-11,EgyptAir Flight 667,Boeing 777-200ER,EgyptAir  ,317,310,7,Hot,Cairo (ground),Fire
+30-07-11,Caribbean Airlines Flight 523,Boeing 737-800,Caribbean Airlines  ,163,163,0,Rainy,New York to Georgetown,Pilot Error
+09-08-11,Avis-Amur Flight 9209,Antonov An-28,Avis-Amur  ,11,0,11,Foggy,Magadan to Keperveyem,Engine Failure
+20-08-11,First Air Flight 6560,Boeing 737-200,First Air  ,15,3,12,Cloudy,Yellowknife to Resolute Bay,CFIT
+06-09-11,Aerocon Flight 238,Fairchild Metro III,Aerocon  ,9,1,8,Foggy,Santa Cruz to Trinidad,CFIT
+07-09-11,Yak-Service Yak-42,Yakovlev Yak-42D,Yak-Service  ,45,1,44,Clear,Yaroslavl to Minsk,CFIT
+25-09-11,Buddha Air Flight 103,Beechcraft 1900D,Buddha Air  ,19,0,19,Foggy,Kathmandu to Kathmandu,CFIT
+29-09-11,Nusantara Buana Air Flight 823,British Aerospace BAe-146,Nusantara Buana Air  ,18,0,18,Stormy,Medan to Kutacane,CFIT
+13-10-11,Airlines PNG Flight 1600,De Havilland Canada DHC-8-100,Airlines PNG  ,32,4,28,Rainy,Lae to Madang,CFIT
+14-10-11,Xakanaka Cessna 208,Cessna 208B,Private Operator (Xakanaka)  ,12,4,8,Clear,Xakanaka to Maun,CFIT
+18-10-11,Iran Air Flight 742,Airbus A300B2-203,Iran Air  ,108,108,0,Clear,Moscow to Tehran,Engine Failure
+01-11-11,LOT Polish Airlines Flight 16,Boeing 767-300ER,LOT Polish Airlines  ,231,231,0,Clear,Newark to Warsaw,Pilot Error
+28-12-11,Kyrgyzstan Air Company Flight 3,Tupolev Tu-134A-3,Kyrgyzstan Air Company  ,40,40,0,Foggy,Moscow to Osh,CFIT
+12-02-12,Katanga Express Gulfstream IV,Gulfstream IV,Katanga Express  ,14,8,6,Cloudy,Kavumu local flight,Engine Failure
+27-03-12,JetBlue Flight 191,Airbus A320-232,JetBlue  ,135,135,0,Clear,New York to Las Vegas,CFIT
+02-04-12,UTair Flight 120,ATR 72-200,UTair  ,43,12,31,Snowy,Tyumen to Surgut,CFIT
+20-04-12,Bhoja Air Flight 213,Boeing 737-200,Bhoja Air  ,127,0,127,Stormy,Karachi to Islamabad,CFIT
+09-05-12,Sukhoi Superjet 100 Demo,Sukhoi Superjet 100-95B,Sukhoi (Demo Flight)  ,45,0,45,Cloudy,Jakarta demo flight,CFIT
+14-05-12,Agni Dornier Do-228,Dornier Do 228,Agni Air  ,21,6,15,Foggy,Pokhara to Jomsom,CFIT
+02-06-12,Allied Air Flight 111,Boeing 727-200F,Allied Air  ,4,4,0,Rainy,Lagos to Accra,CFIT
+03-06-12,Dana Air Flight 0992,McDonnell Douglas MD-83,Dana Air  ,153,0,153,Stormy,Abuja to Lagos,Pilot Error
+29-06-12,Tianjin Airlines Flight 7554,Embraer 190,Tianjin Airlines  ,101,99,2,Clear,Hotan to Urumqi,Hijack
+19-08-12,Alfa Airlines Antonov An-24,Antonov An-24,Alfa Airlines  ,32,0,32,Cloudy,Khartoum to Talodi,CFIT
+12-09-12,Flight 251 (Petropavlovsk),Antonov An-26,Unknown (Flight 251 - Petropavlovsk)  ,14,4,10,Foggy,Petropavlovsk to Palana,CFIT
+20-09-12,Syrian Airlines Flight 501,Airbus A320-232,Syrian Airlines  ,200,200,0,Clear,Damascus to Latakia,Collision
+28-09-12,Sita Air Flight 601,Dornier 228-202K,Sita Air  ,19,0,19,Foggy,Kathmandu to Lukla,CFIT
+07-10-12,FlyMontserrat Flight 107,Britten-Norman BN-2A Islander,FlyMontserrat  ,4,1,3,Clear,Antigua to Montserrat,CFIT
+30-11-12,A�ro-Service Il-76,Ilyushin Il-76TD,A�ro-Service  ,46,6,40,Stormy,Brazzaville cargo flight,Engine Failure
+17-12-12,Amazon Sky An-26,Antonov An-26B,Amazon Sky  ,4,0,4,Mountainous,Pucallpa to Lima,CFIT
+21-12-12,Nizhnevartovskavia Flight 544,Tupolev Tu-134A,Nizhnevartovskavia  ,4,0,4,Unknown,Pieri to Likuangole,Fire
+25-12-12,Air Bagan Flight 011,Fokker 100,Air Bagan  ,71,69,2,Foggy,Yangon to Heho,CFIT
+29-12-12,Red Wings Flight 9268,Tupolev Tu-204-100B,Red Wings  ,8,3,5,Snowy,Czech Republic to Moscow,Engine Failure
+04-01-13,Transaereo 5074,Cessna 208B Grand Caravan,Transaereo  ,6,0,6,Clear,Los Roques to Caracas,Pilot Error
+29-01-13,SCAT Airlines Flight 760,Bombardier CRJ200,SCAT Airlines  ,21,0,21,Foggy,Kyzyklorda to Almaty,Unknown
+13-02-13,South Airlines Flight 8971,Antonov An-24RV,South Airlines  ,52,47,5,Foggy,Odessa to Donetsk,Runway Overrun
+04-03-13,CAA Fokker 50,Fokker 50,CAA  ,9,3,6,Poor ,Entebbe to Goma,Weather
+08-03-13,ACE Air Cargo Flight 51,Lockheed L-382G Hercules,ACE Air Cargo  ,2,0,2,Snowy,King Salmon to Dillingham,Engine Failure
+07-04-13,Helicopter  Loreto,Eurocopter AS350,Private Operator (Helicopter Crash Loreto)  ,13,0,13,Stormy,Loreto local flight,CFIT
+13-04-13,Lion Air Flight 904,Boeing 737-800,Lion Air  ,108,108,0,Rainy,Bandung to Denpasar,Pilot Error
+29-04-13,National Airlines Flight 102,Boeing 747-400BCF,National Airlines  ,7,0,7,Clear,Bagram to Dubai,CFIT
+16-05-13,Nepal Airlines Flight 555,DHC-6 Twin Otter,Nepal Airlines  ,21,21,0,foggy,Pokhara to Jomsom,Runway Excursion
+10-06-13,Merpati Flight 6517,Xian MA60,Merpati Nusantara Airlines  ,52,52,0,Cloudy,Unknown to El Tari,CFIT
+03-07-13,Polar Airlines Flight 9949,Antonov An-28,Polar Airlines  ,28,4,24,Snowy,Deputatsky local flight,Weather
+06-07-13,Asiana Flight 214,Boeing 777-200ER,Asiana Airlines  ,307,304,3,Clear,Seoul to San Francisco,Runway Overrun
+07-07-13,Rediske Air DHC-3,de Havilland Canada DHC-3 Otter,Rediske Air  ,10,0,10,Clear,Soldotna local flight,CFIT
+22-07-13,Southwest Flight 345,Boeing 737-700,Southwest Airlines  ,150,150,0,Clear,Nashville to LaGuardia,Engine Failure
+14-08-13,UPS Flight 1354,Airbus A300F4-622R,UPS Airlines  ,2,0,2,Cloudy,Louisville to Birmingham,CFIT
+23-08-13,CHC Scotia Flight 23R,Eurocopter AS332L2 Super Puma,CHC Scotia  ,18,14,4,Cloudy,Norwegian Sea to Borgsten,CFIT
+03-10-13,Associated Flight 361,Cessna 208B Grand Caravan,Associated Aviation  ,20,4,16,Clear,Lagos to Akure,CFIT
+10-10-13,MASwings Flight 3002,ATR 72-200,MASwings  ,16,14,2,Rainy,Kota Kinabalu to Kudat,CFIT
+16-10-13,Lao Airlines Flight 301,ATR 72-600,Lao Airlines  ,49,0,49,Stormy,Vientiane to Pakse,Weather
+03-11-13,Aerocon Flight 25,Fairchild Metro III,Aerocon  ,18,10,8,Cloudy,Trinidad to Riberalta,CFIT
+10-11-13,Bearskin Flight 311,Fairchild Metro III,Bearskin Airlines  ,7,2,5,Snowy,Sioux Lookout to Red Lake,Engine Failure
+17-11-13,Tatarstan Flight 363,Boeing 737-500,Tatarstan Airlines  ,50,0,50,cloudy,Moscow to Kazan,Stall
+29-11-13,LAM Flight 470,Embraer 190,LAM Mozambique Airlines  ,33,0,33,clear,Maputo to Luanda,Sucide
+02-12-13,IBC Flight 405,Beechcraft 1900C,IBC Airways  ,2,0,2,Cloudy,San Juan to Dominican Republic,CFIT
+26-12-13,Irkut An-12,Antonov An-12,Irkut Aviation  ,9,0,9,Snowy,Novosibirsk to Irkutsk,CFIT
+16-02-14,Nepal Airlines Flight 183,DHC-6 Twin Otter,Nepal Airlines  ,18,0,18,Foggy,Pokhara to Jumla,CFIT
+17-02-14,Ethiopian Airlines Flight 702,Boeing 767-300ER,Ethiopian Airlines  ,202,202,0,Clear,Addis Ababa to Rome,Hijack
+08-03-14,Malaysia Airlines Flight 370,Boeing 777-200ER,Malaysia Airlines  ,239,0,239,Cloudy ,Kuala Lumpur to Beijing,Unknown
+24-06-14,PIA Flight 756,Airbus A310-308,PIA  ,190,189,1,Clear,Riyadh to Peshawar,Fire
+17-07-14,Malaysia Airlines Flight 17,Boeing 777-200ER,Malaysia Airlines  ,298,0,298,Clear ,Amsterdam to Kuala Lumpur,Missile
+23-07-14,TransAsia Airways Flight 222,ATR 72-500,TransAsia Airways  ,58,10,48,Stormy,Kaohsiung to Penghu,Pilot Error
+24-07-14, Air Alg�rie Flight 5017,McDonnell Douglas MD-83,Air Alg�rie  ,116,0,116,Stormy,Ouagadougou to Algiers,Stall
+10-08-14,Sepahan Airlines Flight 5915,Saab 2000,Sepahan Airlines  ,48,8,40,Clear,Tehran to Tabas,Engine Failure
+14-12-14,Loganair Flight 6780,Airbus A320-216,Loganair  ,33,33,0,Stormy,Aberdeen to Sumburgh,Lightning
+28-12-14,AirAsia Flight 8501,Antonov An-2,AirAsia  ,162,0,162,Thunderstorm,Surabaya to Singapore,Weather
+20-01-15,Olimp Air Flight 4653,ATR 72-600,Olimp Air  ,7,1,6,Snowy,Uzynaral to Shatyrkul Mine,Altimeter
+04-02-15,TransAsia Airways Flight 235,McDonnell Douglas MD-88,TransAsia Airways  ,58,15,43,Foggy,Taipei to Kinmen,Stall
+05-03-15,Delta Flight 1086,McDonnell Douglas MD-88,Delta Air Lines  ,132,132,0,Snowy,Atlanta to New York LaGuardia,Runway Overrun
+24-03-15,Germanwings Flight 9525,Airbus A320-211,Germanwings  ,150,0,150,Clear,Barcelona to DÃ¼sseldorf,Sabotage
+29-03-15,Air Canada Flight 624,Airbus A320-211,Air Canada  ,138,138,0,Snowy,Toronto to Halifax,CFIT
+13-04-15,Carson Air Flight 66,Swearingen SA226-TC Metro II,Carson Air  ,2,0,2,Snowy,Vancouver to Prince George,CFIT
+14-04-15,Asiana Flight 162,Airbus A320-200,Asiana Airlines  ,82,82,0,Clear,Seoul to Hiroshima,Runway Overrun
+16-08-15,Trigana Air Flight 267,ATR 42-300,Trigana Air  ,54,0,54,Foggy,Sentani to Oksibil,CFIT
+05-09-15,Senegalair ,Hawker Siddeley HS 125,Senegalair  ,7,0,7,Clear,Dakar to Bamako,Collision
+08-09-15,British Airways Flight 2276,Boeing 777-236ER,British Airways  ,170,170,0,Clear,Las Vegas to London,Engine Failure
+02-10-15,Aviastar Flight 7503,DHC-6 Twin Otter,Aviastar  ,10,0,10,Cloudy,Masamba to Makassar,CFIT
+29-10-15,Dynamic Airways Flight 405,Boeing 767-269ER,Dynamic Airways  ,101,101,0,Clear,Fort Lauderdale to Caracas,Fire
+31-10-15,Metrojet Flight 9268,Airbus A321-231,Metrojet  ,224,0,224,Clear,Sharm Elâ€‘Sheikh to St. Petersburg,Bombing
+04-11-15,Juba An�12,Antonov An-12BK,Private Operator (Juba An-12)  ,39,1,38,Clear,Juba local flight,Unknown
+22-11-15,Avia Traffic Flight 768,Boeing 737-300,Avia Traffic Company  ,160,160,0,Foggy,Bishkek to Osh,CFIT
+08-01-16,West Air Sweden Flight 294,CRJ200,West Air Sweden  ,2,0,2,Clear,En route over Akkajaure,Unknown
+02-02-16,Daallo Airlines Flight 159,Airbus A321-111,Daallo Airlines  ,202,201,1,Clear,Mogadishu to Djibouti,Hijack
+24-02-16,Tara Air Flight 193,Viking DHC-6-400 Twin Otter,Tara Air  ,23,0,23,Stormy,Pokhara to Jomsom,CFIT
+26-02-16,Air Kasthamandap,PAC 750XL,Air Kasthamandap  ,11,9,2,Cloudy,Nepal local flight,CFIT
+09-03-16,True Aviation Flight 21,Antonov An-26B,True Aviation  ,4,1,3,Cloudy,Cox's Bazar to Dhaka,Engine Failure
+19-03-16,Flydubai Flight 981,Boeing 737-800,Flydubai  ,62,0,62,Stormy,Dubai to Rostov-on-Don,CFIT
+29-03-16,EgyptAir Flight 181,Airbus A320-200,EgyptAir  ,63,63,0,Clear,Alexandria to Cairo,Hijack
+29-03-16,Aero Teknic ,Piper PA-34 Seneca,Aero Teknic  ,7,0,7,Snowy,Montreal to Magdalen Islands,CFIT
+04-04-16,Batik Air Flight 7703,Boeing 737-800,Batik Air  ,60,60,0,Clear,Jakarta local flight,Collision
+13-04-16,Sunbird Aviation ,Britten-Norman BN-2A Islander,Sunbird Aviation  ,12,0,12,Cloudy,Kiunga charter flight,CFIT
+29-04-16,Tur�y Helicopter,Airbus H225 Super Puma,CHC Helikopter Service (Tur�y Helicopter)  ,13,0,13,Windy,Bergen to offshore rig,CFIT
+18-05-16,Silk Way An-12 ,Antonov An-12,Silk Way Airlines  ,9,2,7,Clear,Bagram to Azerbaijan,Engine Failure
+19-05-16,EgyptAir Flight 804,Airbus A320-232,EgyptAir  ,66,0,66,Clear,Paris to Cairo,Unknown
+27-05-16,Korean Air Flight 2708,Boeing 777-300,Korean Air  ,319,319,0,Clear,Tokyo to Seoul,Engine Failure
+03-08-16,Emirates Flight 521,Boeing 777-300,Emirates  ,300,300,0,Hazy,Thiruvananthapuram to Dubai,CFIT
+05-08-16,ASL Airlines Flight 7332,Boeing 737-700,ASL Airlines  ,2,2,0,Foggy,Paris to Bergamo,Runway Overrun
+27-08-16,Southwest Flight 3472,Mil Mi-8T,Southwest Airlines  ,104,104,0,Clear,New Orleans to Orlando,Engine Failure
+21-10-16,Skol Airlines Flight 9375,Boeing 767-300,Skol Airlines  ,22,3,19,Snowy,Yamal Peninsula work trip,CFIT
+28-10-16,American Airlines Flight 383,McDonnell Douglas MD-10-10F,American Airlines  ,170,170,0,Clear,Chicago to Miami,Engine Failure
+28-10-16,FedEx Flight 910,de Havilland Canada DHC-4 Caribou,FedEx Express  ,2,2,0,Clear,Memphis to Fort Lauderdale,CFIT
+31-10-16,Alfa Indonesia DHC-4 ,BAe Avro RJ85,Alfa Indonesia  ,4,0,4,Foggy,Timika to Ilaga,CFIT
+28-11-16,LaMia Flight 2933,ATR 42-500,LaMia  ,77,6,71,Clear,Santa Cruz to MedellÃ­n,Fuel
+07-12-16,PIA Flight 661,Boeing 727-200F,PIA  ,47,0,47,Clear,Chitral to Islamabad,Engine Failure
+20-12-16,Aerosucre Flight 157,Airbus A319-100,Aerosucre  ,6,1,5,Clear,Puerto CarreÃ±o to BogotÃ¡,CFIT
+23-12-16,Afriqiyah Flight 209,Boeing 747-412F,Afriqiyah Airways  ,118,118,0,Clear,Tripoli to Malta,Hijack
+16-01-17,Turkish Airlines Flight 6491,McDonnell Douglas MD-83,Turkish Airlines  ,39,0,39,Foggy,Hong Kong to Bishkek,CFIT
+08-03-17,Ameristar Flight 9363,Boeing 737-300,Ameristar Jet Charter  ,116,116,0,Clear,Ypsilanti to Washington,Mechanical Failure
+28-03-17,Peruvian Flight 112,Let L-410UVP-E20,Peruvian Airlines  ,150,150,0,Clear,Lima to Jauja,CFIT
+27-05-17,Goma Air Flight 409,Airbus A320-200,Goma Air  ,3,1,2,Foggy,Kathmandu to Lukla,CFIT
+07-07-17,Air Canada Flight 759,Boeing 757-200,Air Canada  ,140,140,0,Clear,Toronto to San Francisco,Birdstrike
+21-07-17,Thomson Airways Flight 1526,Airbus A380-861,Thomson Airways  ,185,185,0,Clear,Belfast to Corfu,Runway Overrun
+30-09-17,Air France Flight 66,Antonov An-26B,Air France  ,520,520,0,Clear,Paris to Los Angeles,Engine Failure
+14-10-17,Valan Antonov An-26,Mil Mi-8,Valan International Cargo Charter  ,10,6,4,Stormy,Ouagadougou to Abidjan,CFIT
+26-10-17,Convers Avia Flight 312,Let L-410UVP-E20,Convers Avia  ,8,0,8,Snowy,Pyramiden to Barentsburg,CFIT
+15-11-17,Khabarovsk Flight 463,Swearingen SA227-AC Metro III,Khabarovsk Airlines  ,7,1,6,Snowy,Nikolayevsk to Nelkan,Runway Overrun
+13-12-17,West Wind Flight 282,Cessna 208B Grand Caravan,West Wind Aviation  ,25,24,1,Clear,Fond-du-Lac to Stony Rapids,Mechanical Failure 
+31-12-17,Nature Air Flight 144,Boeing 737-800,Nature Air  ,12,0,12,Clear,Punta Islita to San JosÃ©,Mechanical Failure 
+13-01-18,Pegasus Flight 8622,Boeing 737-800,Pegasus Airlines  ,168,168,0,Clear,Istanbul to Trabzon,Runway Overrun
+11-02-18,Saratov Flight 703,Antonov An-148,Saratov Airlines  ,71,0,71,Clear,Moscow to Orsk,Engine Failure
+13-02-18,United Flight 1175,Boeing 777-222,United Airlines  ,373,373,0,Clear,San Francisco to Honolulu,Engine Failure
+18-02-18,Iran Aseman Flight 3704,ATR 72-212,Iran Aseman Airlines  ,66,0,66,Mountainous,Tehran to Yasuj,CFIT
+12-03-18,US-Bangla Flight 211,Bombardier Dash 8 Q400,US-Bangla Airlines  ,71,20,51,Hazy,Dhaka to Kathmandu,Runway Overrun
+17-04-18,Southwest Flight 1380,Boeing 737-700,Southwest Airlines  ,149,148,1,Clear,New York to Dallas,Engine Failure
+14-05-18,Sichuan Flight 8633,Airbus A319-133,Sichuan Airlines  ,128,128,0,Clear,Chongqing to Lhasa,CFIT
+18-05-18,Cubana Flight 972,Boeing 737-200,Cubana de Aviaci�n  ,113,1,112,Clear,Havana to Holguin,CFIT
+05-06-18,Fly-SAX Flight 102,Cessna 208 Caravan,Fly-SAX  ,10,0,10,Foggy,Kitale to Nairobi,CFIT
+28-07-18,Air Vanuatu Flight 241,ATR 72-500,Air Vanuatu  ,43,43,0,Rainy,Tanna to Port Vila,Runway Overrun
+31-07-18,Aerom�xico Connect 2431,Embraer ERJ-190AR,Aerom�xico Connect  ,103,103,0,Stormy,Durango to Mexico City,Runway Overrun
+04-08-18,Ju-Air Ju 52,Junkers Ju 52,Ju-Air  ,20,0,20,Mountainous,Locarno to Dubendorf,CFIT
+10-08-18,Horizon Air Q400,Bombardier Dash 8 Q400,Horizon Air  ,1,0,1,Clear,Seattle local flight,CFIT
+16-08-18,Xiamen Flight 8667,Boeing 737-800,Xiamen Airlines  ,165,165,0,Monsoon,Xiamen to Manila,Runway Overrun
+01-09-18,UTair Flight 579,Boeing 737-500,UTair  ,164,163,1,Clear,Moscow to Sochi,Runway Overrun
+09-09-18,Let L-410 South Sudan,Let L-410 Turbolet,Unknown (Let L-410 South Sudan)  ,23,3,20,Foggy,Domestic South Sudan,CFIT
+28-09-18,Air Niugini Flight 73,Boeing 737-800,Air Niugini  ,47,46,1,Rainy,Pohnpei to Chuuk,Runway Overrun
+29-10-18,Lion Air Flight 610,Boeing 737 MAX 8,Lion Air  ,189,0,189,Clear,Jakarta to Pangkal Pinang,CFIT
+07-11-18,Sky Lease Cargo 4854,Boeing 747-412F,Sky Lease Cargo  ,4,1,3,Foggy,Chicago to Halifax,Runway Overrun
+09-11-18,Fly Jamaica 256,Boeing 757-200,Fly Jamaica Airways  ,128,127,1,Clear,Georgetown to Toronto,CFIT
+11-11-18,Air Astana 1388,Embraer ERJ-190LR,Air Astana  ,6,6,0,Cloudy,Portugal,Mechanical Failure 
+14-01-19,Saha Airlines Boeing 707,Boeing 707-320C,Saha Airlines  ,16,1,15,Foggy,Karaj to Fath Air Base,CFIT
+23-02-19,Atlas Air Flight 3591,Boeing 767-375ER(BCF),Atlas Air  ,3,0,3,Cloudy,Miami to Houston,CFIT
+24-02-19,Biman Bangladesh Flight 147,Bombardier Dash 8 Q400,Biman Bangladesh Airlines  ,151,151,0,Clear,Dhaka to Dubai,Hijack
+04-03-19,United Express Flight 4933,Embraer EMB-120,United Express  ,31,28,3,Snow, Boston to Presque Isle,Runway Overrun
+09-03-19,Laser A�reo DC-3,Douglas DC-3,Laser A�reo  ,14,0,14,Cloudy,Villavicencio to La Vanguardia,Engine Failure
+10-03-19,Ethiopian Airlines Flight 302,Boeing 737 MAX 8,Ethiopian Airlines  ,157,0,157,Clear,Addis Ababa to Nairobi,Software Failure
+03-05-19,Miami Air Flight 293,Boeing 737-800,Miami Air International  ,143,143,0,Thunderstorm,GuantÃ¡namo to Jacksonville,Runway Overrun
+05-05-19,Aeroflot Flight 1492,Sukhoi Superjet 100-95B,Aeroflot  ,78,37,41,Clear,Moscow to Murmansk,Fire
+08-05-19,Biman Bangladesh Flight 060,De Havilland Canada DHC-8-400,Biman Bangladesh Airlines  ,33,33,0,Stormy,Dhaka to Yangon,Runway Overrun
+13-05-19,Taquan Air Mid-air Collision,De Havilland Canada DHC-3 Otter,Taquan Air  ,16,11,5,Cloudy,George Inlet tour,Collision
+27-06-19,Angara Airlines Flight 200,Antonov An-24RV,Angara Airlines  ,47,45,2,Clear,Ulan-Ude to Nizhneangarsk,Engine Failure
+15-08-19,Ural Airlines Flight 178,Airbus A321-211,Ural Airlines  ,233,233,0,Clear,Moscow to Simferopol,Birdstrike
+04-10-19,Ukraine Air Alliance Flight 4050,Antonov An-12BK,Ukraine Air Alliance  ,8,3,5,Foggy,Vigo to Istanbul,Fuel
+17-10-19,PenAir Flight 3296,Saab 2000,PenAir  ,42,41,1,Windy,Anchorage to Unalaska,Runway Overrun
+24-11-19,Busy Bee Do 228,Dornier Do 228-200,Busy Bee Congo  ,28,1,27,Clear,Goma to Beni,Engine Failure
+27-12-19,Bek Air Flight 2100,Fokker 100,Bek Air  ,98,85,13,Foggy,Almaty to Nur-Sultan,CFIT
+08-01-20,Ukraine International Airlines Flight 752,Boeing 737-800,Ukraine International Airlines  ,176,0,176,Clear,Kiev to Tehran,Missile
+14-01-20,Delta Flight 89,Boeing 777-200ER,Delta Air Lines  ,373,373,0,Clear,Los Angeles to Los Angeles,Engine Failure
+27-01-20,Caspian Airlines Flight 6936,McDonnell Douglas MD-83,Caspian Airlines  ,144,142,2,Clear,Tehran to Mahshahr,CFIT
+05-02-20,Pegasus Airlines Flight 2193,Boeing 737-800,Pegasus Airlines  ,183,180,3,Rainy,Izmir to Istanbul,Runway Overrun
+04-05-20,East African Express EMB-120,Embraer EMB 120 Brasilia,East African Express  ,6,0,6,Clear,Baidoa to Berdale,CFIT
+22-05-20,PIA Flight 8303,Airbus A320-214,PIA  ,99,2,97,Clear,Lahore to Karachi,Engine Failure
+07-08-20,Air India Express Flight 1344,Boeing 737-800,Air India Express  ,190,169,21,Rainy,Dubai to Kozhikode,Runway Overrun
+22-08-20,South West Aviation An-26,Antonov An-26,South West Aviation  ,9,1,8,Clear,Juba to Aweil,Engine Failure
+13-11-20,Volga-Dnepr Flight 4066,Antonov An-124-100,Volga-Dnepr Airlines  ,14,14,0,Snowy,Novosibirsk to Vienna,Engine Failure
+09-01-21,Sriwijaya Air Flight 182,Boeing 737-500,Sriwijaya Air  ,62,0,62,Rainy,Jakarta to Pontianak,CFIT
+20-02-21,Longtail Aviation Flight 5504,Boeing 747-412F,Longtail Aviation  ,4,4,0,Clear,Maastricht to New York,Engine Failure
+20-02-21,United Airlines Flight 328,Boeing 777-222,United Airlines  ,241,241,0,Clear,Denver to Honolulu,Engine Failure
+02-03-21,South Sudan Supreme L-410,Let L-410UVP-E20,South Sudan Supreme Airlines  ,10,0,10,Clear,Pieri to Yuai,CFIT
+12-05-21,Key Lime Air Flight 970,Fairchild Swearingen Metroliner SA227,Key Lime Air  ,2,2,0,Clear,Salida to Centennial,Collision
+23-05-21,Ryanair Flight 4978,Boeing 737-800,Ryanair  ,132,132,0,Clear,Athens to Vilnius,Hijack
+02-07-21,Transair Flight 810,Boeing 737-200C,Transair  ,2,2,0,Clear,Honolulu to Kahului,Engine Failure
+06-07-21,Petropavlovsk Flight 251,Antonov An-26,Petropavlovsk-Kamchatsky Air Enterprise  ,28,0,28,Foggy,Petropavlovsk to Palana,CFIT
+16-07-21,Siberian Light Flight 42,Let L-410UVP-E,Siberian Light Aviation  ,18,18,0,Cloudy,Kedrovy to Tomsk,Engine Failure
+12-09-21,Siberian Light Flight 51,Let L-410UVP-E,Siberian Light Aviation  ,16,12,4,Foggy,Irkutsk to Kazachinskoye,CFIT
+19-10-21,MD-87 (987 Investments),McDonnell Douglas MD-87,987 Investments (Private)  ,21,21,0,Clear,Houston Exec to Boston,Runway Overrun
+03-11-21,Grodno Aviakompania Flight 1252,Antonov An-12BK,Grodno Aviakompania  ,9,0,9,Foggy,Yakutsk to Irkutsk,CFIT
+21-03-22,China Eastern Flight 5735,Boeing 737-800,China Eastern Airlines  ,132,0,132,Clear,Kunming to Guangzhou,CFIT
+07-04-22,DHL Guatemala Flight 7216,Boeing 757-200,DHL Aviation  ,2,2,0,Clear,San JosÃ© to Guatemala City,Runway Overrun
+12-05-22,Tibet Airlines Flight 9833,Airbus A319-115,Tibet Airlines  ,122,122,0,Clear,Chongqing to Nyingchi,Fire
+29-05-22,Tara Air Flight 197,DHC-6 Twin Otter,Tara Air  ,22,0,22,Foggy,Pokhara to Jomsom,CFIT
+16-07-22,Meridian Flight 3032,Antonov An-12BK,Meridian Air Cargo  ,8,0,8,Clear,Kavala to Dhaka,CFIT
+04-09-22,De Havilland Canada DHC-3 Otter,De Havilland Canada DHC-3 Otter,Private (Unknown Operator � DHC-3 Otter)  ,10,0,10,Rainy,Friday Harbor to Renton,CFIT
+23-10-22,Korean Air Flight 631,Airbus A330-300,Korean Air  ,173,173,0,Stormy,Seoul to Cebu,CFIT
+06-11-22,Precision Air Flight 494,ATR 42-500,Precision Air  ,43,24,19,Rainy,Dar es Salaam to Bukoba,CFIT
+18-11-22,LATAM PerÃº Flight 2213,Airbus A320-271N,LATAM Per�  ,108,108,0,Clear,Lima to Juliaca,Collision
+15-01-23,Yeti Airlines Flight 691,ATR 72-500,Yeti Airlines  ,72,0,72,Clear,Tribhuvan to Pokhara,Stall
+12-09-23,Ural Airlines Flight 1383,Airbus A320-214,Ural Airlines  ,165,165,0,Clear,Sochi to Omsk,Hydraulic Failure
+16-09-23,Manaus Aerotaxi ,Embraer EMB 110 Bandeirante,Manaus Aerot�xi  ,14,0,14,Rainy,Coari to Barcelos,CFIT
+22-10-23,Alaska Airlines Flight 2059,Embraer E175,Alaska Airlines  ,84,84,0,Clear,Everett to San Francisco (diverted),Engine Failure
+02-01-24,Japan Airlines Flight 516,Boeing 787-8 Dreamliner,Japan Airlines  ,385,379,6,Clear,New Chitose to Haneda,Collision
+05-01-24,Alaska Airlines Flight 1282,Boeing 737 MAX 9,Alaska Airlines  ,177,177,0,Clear,Portland to Ontario,CFIT
+23-01-24,Northwestern Air Flight 738,BAe Jetstream 31,Northwestern Air  ,7,1,6,Clear,Fort Smith to Diavik Diamond Mine,Mechanical Failure
+09-02-24,Hop-A-Jet Flight 823,Bombardier Learjet 60,Hop-A-Jet  ,5,3,2,Clear,Columbus to Naples,Engine Failure
+18-02-24,Air Serbia Flight 324,Airbus A330-200,Air Serbia  ,111,111,0,Clear,Belgrade to DÃ¼sseldorf,CFIT
+05-03-24,Safarilink Aviation Flight 053,Cessna 208B Grand Caravan,Safarilink Aviation  ,46,46,0,Clear,Nairobi to Diani,Collision
+11-03-24,LATAM Airlines Flight 800,Boeing 787-9 Dreamliner,LATAM Airlines  ,263,263,0,Clear,Sydney to Santiago via Auckland,CFIT
+23-04-24,Alaska Air Fuel C-54D,Douglas C-54D Skymaster,Alaska Air Fuel Services  ,2,0,2,Clear,Fairbanks to Kobuk,Engine Failure
+21-05-24,Singapore Airlines Flight 321,Boeing 787-10 Dreamliner,Singapore Airlines  ,229,228,1,Stormy,London to Singapore via Bangkok,Turbulence
+12-07-24,Gazpromavia Flight 9608,Yakovlev Yak-40,Gazpromavia  ,3,0,3,Cloudy,Moscow to Vnukovo,CFIT
+24-07-24,Saurya Airlines CRJ-200ER,Bombardier CRJ-200ER,Saurya Airlines  ,19,1,18,Clear,Kathmandu to Pokhara,CFIT
+09-08-24,Voepass Flight 2283,ATR 72-500,Voepass Linhas A�reas  ,62,0,62,Clear,Cascavel to SÃ£o Paulo,Mechanical Failure
+22-08-24,Thai Flying Service Flight 209,Cessna 208 Caravan,Thai Flying Service  ,9,0,9,Clear,Bangkok to Ko Mai Si,CFIT
+31-08-24,Vityaz-Aero Mil Mi-8T,Mil Mi-8T,Vityaz-Aero  ,22,0,22,Foggy,Vachkazhets to Nikolayevka,Weather
+09-11-24,Total Linhas A�reas Flight 5682,ATR 42-300,Total Linhas A�reas  ,2,2,0,Clear,VitÃ³ria to Guarulhos,Fire
+25-11-24,Swiftair Flight 5960,McDonnell Douglas MD-83,Swiftair  ,4,3,1,Cloudy,Leipzig to Vilnius,CFIT
+23-12-24,Swiss Flight 1885,Airbus A320-214,Swiss International Air Lines  ,122,121,1,Snowy,Bucharest to Zurich,Engine Failure
+25-12-24,Azerbaijan Airlines Flight 8243,Airbus A319-111,Azerbaijan Airlines  ,67,29,38,Clear,Baku to Aktau,Missile
+29-12-24,Jeju Air Flight 2216,Boeing 737-800,Jeju Air  ,181,2,179,Foggy,Muan to Jeju,CFIT
+28-01-25,Air Busan Flight 391,Airbus A321-200,Air Busan  ,176,176,0,Clear,Busan to Hong Kong,Fire
+29-01-25,Light Air Services 1900,BAe Jetstream 31,Light Air Services  ,21,1,20,Clear,GPOC Unity Airstrip,CFIT
+29-01-25,American Eagle Flight 5342,Embraer EMB 120,American Eagle  ,64,0,64,Clear,Kansas to Virginia,Collision
+06-02-25,Bering Air Flight 445,Beechcraft 1900D,Bering Air  ,10,0,10,Snowy,Unalakleet to Nome,CFIT
+17-02-25,Delta Connection Flight 4819,Bombardier CRJ-900,Delta Connection  ,80,80,0,Clear,Minnesota to Ontario,CFIT
+17-03-25,Aerol�nea Lanhsa Flight 018,British Aerospace Jetstream 32,Aerol�nea Lanhsa  ,18,5,13,Clear,RoatÃ¡n to La Ceiba,Runway Overrun
+17-04-25,Tropic Air Flight 711,Cessna 208B Grand Caravan,Tropic Air  ,16,15,1,Clear,Corozal to San Pedro,Hijack
+03-05-25,IBM Airlines Boeing 737-290,Boeing 737-200,IBM Airlines  ,20,0,20,Clear,South Sudan to Nyala,CFIT
+12-06-25,Air India Flight 171,Boeing 787-8 Dreamliner,Air India  ,242,1,241,Clear,Ahmedabad to London Gatwick,Unknown
