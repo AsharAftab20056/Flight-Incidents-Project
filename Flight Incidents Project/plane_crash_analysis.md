@@ -74,7 +74,7 @@ This project presents a comprehensive analysis of global airplane incidents betw
 1\. \*\*Clone the repository\*\*:
 
 \```bash
-git clone https://github.com/AsharAftab20056/Flight-Incident-Project.git
+git clone https://github.com/AsharAftab20056/Flight-Incidents-Project
 
 
 
@@ -103,7 +103,7 @@ Download the dataset: https://drive.google.com/file/d/149kSdIvsP8ywmb9V9K516TWw4
 
 \*\*Ashar Aftab \*\*\
 
-GitHub: https://github.com/AsharAftab20056/Flight-Incident-Project
+GitHub: https://github.com/AsharAftab20056
 
 LinkedIn: www.linkedin.com/in/ashar-aftab-b09924295
 
