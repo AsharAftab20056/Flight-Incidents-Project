@@ -99,7 +99,7 @@ Download the dataset: https://drive.google.com/file/d/149kSdIvsP8ywmb9V9K516TWw4
 
 \---
 
-\## 👤 Author
+## 👤 Author
 
 ### Ashar Aftab 
 
