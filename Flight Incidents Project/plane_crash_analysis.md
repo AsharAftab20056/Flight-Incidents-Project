@@ -61,13 +61,11 @@ This project presents a comprehensive analysis of global airplane incidents betw
 
 ## 📸 Visual Highlights
 
-> Make sure these images are in your GitHub repo under a folder named `images/`
-
 ### Correlation Between Weather and Fatalities
-![Correlation](images/Correlation_between_weather_and_fatalities.PNG)
+![Correlation](Images/Correlation_between_weather_and_fatalities.PNG)
 
 ### Incidents vs Average Fatalities
-![Incidents vs Fatalities](images/Incidents_vs_Fatalities.PNG)
+![Incidents vs Fatalities](Images/Incidents_vs_Fatalities.PNG)
 
 ---
 
