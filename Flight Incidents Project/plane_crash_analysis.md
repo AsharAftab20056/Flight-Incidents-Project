@@ -101,7 +101,7 @@ Download the dataset: https://drive.google.com/file/d/149kSdIvsP8ywmb9V9K516TWw4
 
 \## 👤 Author
 
-\*\*Ashar Aftab \*\*\
+### Ashar Aftab 
 
 GitHub: https://github.com/AsharAftab20056
 
