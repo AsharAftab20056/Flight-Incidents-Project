@@ -1,4 +1,4 @@
-﻿# ✈️ Plane Incidents Data Analysis (2000–2025)
+﻿# ✈️ Flight Incidents Data Analysis (2000–2025)
 
 This project presents a comprehensive analysis of global airplane incidents between **2000 and 2025**, using real-world data. It explores **survivability patterns**, **weather impacts**, **incident causes**, and applies **machine learning** techniques to uncover hidden patterns and make predictions.
 
@@ -20,7 +20,7 @@ This project presents a comprehensive analysis of global airplane incidents betw
    - (b) Between Weather and Fatalities
 9. **Comparative Analysis**: Weather vs. Incident Frequency and Fatality Severity
 10. **KMeans Clustering**: Unsupervised Analysis of Incident Patterns
-11. **NLP Classification**: Clustering Crash Causes using TF-IDF + KMeans
+11. **NLP Classification**: Clustering Crash Incidents using TF-IDF + KMeans
 12. **Predict Survivability** using Logistic Regression
 13. **Predict Fatalities** using Linear Regression (Occupants + Weather)
 14. **Predict Fatalities** using Decision Tree Regressor
@@ -52,7 +52,7 @@ This project presents a comprehensive analysis of global airplane incidents betw
 
 - **Fatality rates have decreased in recent years**, while survivor rates vary based on weather and aircraft type.
 - **Weather conditions** such as fog, storm, and rain were linked to **higher fatality rates** and more incidents.
-- Some **flight routes and operators** experienced repeated crash patterns.
+- Some **flight routes and operators** experienced repeated incident patterns.
 - **KMeans clustering** uncovered distinct groups based on incident characteristics.
 - **Logistic regression and Naive Bayes** were useful in predicting survival outcomes.
 - **Decision Tree models** performed better than Linear Regression for predicting fatalities.
