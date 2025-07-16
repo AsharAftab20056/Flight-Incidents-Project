@@ -1,4 +1,4 @@
-﻿# ✈️ Plane Crash Data Analysis (2000–2025)
+﻿# ✈️ Plane Incidents Data Analysis (2000–2025)
 
 This project presents a comprehensive analysis of global airplane incidents between **2000 and 2025**, using real-world data. It explores **survivability patterns**, **weather impacts**, **incident causes**, and applies **machine learning** techniques to uncover hidden patterns and make predictions.
 
